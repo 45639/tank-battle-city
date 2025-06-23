@@ -1,2 +1,2 @@
 # tank-battle-city
-使用java开发可局域网联机的双人坦克大战。使用套接字Socket来完成client端和server端的连接，通过方法Graphics（）来进行游戏地图界面的绘制，使用了接口技术使一个类能够实现多个接口。
+使用java开发可局域网联机的双人坦克大战。使用套接字Socket来完成client端和server端的连接，通过方法Graphics来进行游戏地图界面的绘制，使用了接口技术使一个类能够实现多个接口。
